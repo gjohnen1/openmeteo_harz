@@ -1,5 +1,6 @@
 # files
 .cache.*
+*.csv
 
 
 # folder 
