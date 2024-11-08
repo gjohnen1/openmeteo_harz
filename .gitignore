@@ -1,2 +1,6 @@
+# files
+.cache.*
+
+
 # folder 
 locations/*
